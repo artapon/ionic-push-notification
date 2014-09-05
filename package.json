@@ -1,0 +1,24 @@
+{
+  "name": "ionic-push-notification",
+  "version": "0.1.0",
+  "description": "Register for push notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Igniter/ionic-push-notification.git"
+  },
+  "keywords": [
+    "ionic",
+    "push",
+    "notification"
+  ],
+  "author": "Dan Williams <dan@igniter.com> (http://igniter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Igniter/ionic-push-notification/issues"
+  },
+  "homepage": "https://github.com/Igniter/ionic-push-notification"
+}
